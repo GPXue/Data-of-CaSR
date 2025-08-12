@@ -2,7 +2,7 @@
 
 ### File “CaSR.pdb”: protein pdb structure used for docking procedure.
 
-### Directory “sdfs_005”
+### Directory “docking”
 - Docking results of all peptides with sdf format.
 - A csv file "paper_data_smiles.csv" contains all peptides names, SMILES， MM-GBSA score, EC50.
 
